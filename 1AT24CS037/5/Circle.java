@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Circle extends Shape{
+public class Circle extends Shape {
     Circle(int ...params)
     {
         super(params);
